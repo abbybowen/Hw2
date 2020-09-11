@@ -1,4 +1,4 @@
-
+# Author: Abigail Bowen aeb6095@psu.edu
 def getGradePoint(lettergrade):
     if lettergrade == "A":
       return 4.0
